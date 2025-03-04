@@ -1,11 +1,8 @@
 # personal-health-insurance-cost-prediction
-The Personal Health Insurance Cost Prediction project estimates insurance premiums using factors like age, BMI, smoking status, and region. It applies ML models (Linear Regression, Random Forest,...) for accurate cost predictions. The project includes data preprocessing, model evaluation, and future deployment as an API for real-world applications.
-
-
-# 🏥 Personal Health Insurance Cost Prediction  
 
 ## 📌 Project Overview  
-This project leverages machine learning to predict health insurance costs based on various factors such as age, BMI, smoking status, and region. By analyzing these variables, the model provides accurate premium estimates, helping individuals and insurance providers make informed decisions.  
+
+The Personal Health Insurance Cost Prediction project estimates insurance premiums using factors like age, BMI, smoking status, and region. It applies ML models (Linear Regression, Random Forest,Decision tree,SVR,Logistic Regression) for accurate cost predictions. The project includes data preprocessing, model evaluation, and future deployment as an API for real-world applications.  
 
 ## 🚀 Features  
 - Predicts health insurance costs based on user input  
